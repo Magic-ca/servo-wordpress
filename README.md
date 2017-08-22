@@ -1,13 +1,7 @@
-![Seravo.com](https://seravo.com/wp-content/themes/seravo/images/seravo-banner-808x300.png)
-
 # Seravo WordPress project template
 [![Build Status](https://travis-ci.org/Seravo/wordpress.svg?branch=master)](https://travis-ci.org/Seravo/wordpress)
 
-Brought to you by [Seravo.com](https://seravo.com).
-
 A WordPress project layout for use with Git, Composer and Nginx. It also includes a config a Vagrant box and Docker image for local development.
-
-This same project layout is used by default on all [Seravo.com](https://seravo.com) instances for easy deployment workflow. Contents of this repository equals to what you would have on the server in the directory `/data/wordpress/`.
 
 ## Documentation
 
